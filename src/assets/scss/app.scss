@@ -1,12 +1,7 @@
-* {
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-}
+@import "./main/reset.scss";
+@import "./main/common.scss";
+@import "./componets/header.scss";
 
-html {
-    background-color: bisque;
-}
 
 
 
